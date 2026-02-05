@@ -1,3 +1,5 @@
-remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: devich/quick@0.0.1
+theme_color: fuschia
+bg_color: dark
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
